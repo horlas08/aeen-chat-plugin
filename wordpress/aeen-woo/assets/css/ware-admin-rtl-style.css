@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Almarai:wght@400;500;600;700&display=swap');
+
+
+#ware-wrap {
+	font-family: "Almarai", sans-serif;
+}
+
+
+
+.rtl h1, .rtl h2, .rtl h3, .rtl h4, .rtl h5, .rtl h6 {
+	font-family: "Almarai", sans-serif !important;
+}
+#wpcontent {
+	padding-right: 0;
+	font-family: "Almarai", sans-serif!important;
+  }
+  #wpbody-content {
+	font-family: "Almarai", sans-serif!important;
+  }
+.otp-card {
+  font-family: "Almarai", sans-serif!important;
+} 
+.info-banner {
+  font-family: "Almarai", sans-serif!important;
+}
+
+.intl-tel-input.allow-dropdown .flag-container, .intl-tel-input.separate-dial-code .flag-container
+{
+	right: 0;
+	left: auto !important;
+}
+#country-listbox
+{
+	text-align: right !important;
+}
+.intl-tel-input .country-list .flag-box, .intl-tel-input .country-list .country-name
+{
+	margin-right: 6px;
+	margin-left: 6px;
+}
+.iti-arrow
+{
+	margin-right: 10px;
+	margin-left: 10px !important;
+}
+#ware_test_number
+{
+	direction: ltr;
+	text-align: right;
+}
+.instance-desc > strong span
+{
+	position: absolute;
+	left: 10px;
+	right: auto;
+}
+.notification-form.english.hint.otp {
+	direction: rtl;
+	font-family: inherit;
+  }
+  .notification-form.english.otp-card {
+	direction: rtl;
+  }
+  .notification-form.english.hint {
+	direction: rtl;
+	font-family: inherit;
+  }
+  h6 {
+	text-align: right !important;
+  }
+  .modal-title {
+	text-align: right !important;
+	padding-bottom: 10px !important;
+  }
+  
+  
+  .editor-tab[data-lang="english"] {
+  order: 1;
+}
+
+.ware-box h2 .dashicons {
+  margin-right: 0 !important;
+  margin-left: 10px;
+}
+.info-td {
+  text-align: right !important;
+  font-family: "Almarai", sans-serif;
+}
+.status-true {
+  text-align: right !important;
+  font-family: "Almarai", sans-serif;
+}
+.status-gray {
+  text-align: right !important;
+  font-family: "Almarai", sans-serif;
+}
+.status-false {
+  text-align: right !important;
+  font-family: "Almarai", sans-serif;
+}
+.dashicons.dashicons-info {
+  margin-right: 0 !important;
+  margin-left: 10px;
+}
+.php-info-note {
+  border-left: 0 !important;
+  border-right: 4px solid #00a0d2;
+}
+.system-requirements {
+  font-family: "Almarai", sans-serif;
+}
+.php-info-note {
+  font-family: "Almarai", sans-serif;
+}
